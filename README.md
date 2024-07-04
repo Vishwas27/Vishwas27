@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishwas27
-- 👀 I’m interested in Solidity Develpoment, Machine learning , AI and Web 3.0
-- 🌱 I’m currently learning Web 3.0
-- 💞️ I’m looking to collaborate on MetaVerse and NFT Projects
+- 👀 I’m interested in Data Science, Machine learning , AI and Web 3.0
+- 🌱 I’m currently learning Big Data analytics
+- 💞️ I’m looking to collaborate on new data science projects
 - 📫 How to reach me vishwaschhimpa27@gmail.com
 
 <!---
